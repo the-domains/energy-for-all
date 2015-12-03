@@ -4,8 +4,15 @@
         <description><![CDATA[Energy for All]]></description>
         <link>https://thegrid.ai/energy-for-all/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 21:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 21:08:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/energy-for-all/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Energy harvesting - E-peas]]></title>
+            <description><![CDATA[<article><h1>Energy harvesting - E-peas</h1><p>The AEM1x940 is an integrated energy management unit that extracts DC power from PV cells or TEGs to supply electronic systems in order to extend their battery life and ultimately get rid of the primary storage element. The AEM1x940 uses an ultra-low-power boost converter to charge storage elements such as Li-Ion batteries, thin film batteries and...</p><img src="http://e-peas.com/wp-content/uploads/2015/03/applicationCircuit.jpg"></article>]]></description>
+            <link>http://e-peas.com/products/energy-harvesting/</link>
+            <guid isPermaLink="false">51a8ba34-e91c-4cef-9537-02b65d24c928</guid>
+            <pubDate>Thu, 03 Dec 2015 21:08:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The AEM1x940 is an integrated energy management unit that extracts DC power from PV cells or TEGs to supply electronic systems in order to extend their battery </p>]]></description>
