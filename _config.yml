@@ -1,7 +1,7 @@
 name: Energy for All
 favicon: null
-layout_spectrum: 0.09563485975377262
-typography_spectrum: 0.6362758630421013
+layout_spectrum: 0.23582
+typography_spectrum: 0.66313
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.4236695119179785
+  brandStrength: 0.4375
   lightness: 0.7216753226239234
   saturation: 0.09222592040896416
   rhythmicContrast: 0.4125943654216826
