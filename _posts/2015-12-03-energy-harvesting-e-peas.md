@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://e-peas.com/products/energy-harvesting/'
 title: Energy harvesting - E-peas
-datePublished: '2015-12-03T21:07:41.010Z'
-dateModified: '2015-12-03T21:03:40.003Z'
+datePublished: '2015-12-03T21:08:02.527Z'
+dateModified: '2015-12-03T21:03:39.900Z'
 sourcePath: _posts/2015-12-03-energy-harvesting-e-peas.md
 published: true
 inFeed: true
